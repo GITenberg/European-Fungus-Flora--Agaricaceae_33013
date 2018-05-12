@@ -1,0 +1,30 @@
+_repo: European-Fungus-Flora--Agaricaceae_33013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Massee, George
+    alias: Massee, George Edward
+    birthdate: 1850
+    deathdate: 1917
+    gutenberg_agent_id: '36163'
+    url: http://www.gutenberg.org/2009/agents/36163
+    wikipedia: http://en.wikipedia.org/wiki/George_Edward_Massee
+description: ''
+gutenberg_issued: '2010-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mushrooms -- Europe'
+- !lcsh 'Fungi -- Europe'
+- !lcc 'QK'
+- !lcsh 'Agaricaceae -- Europe'
+title: 'European Fungus Flora: Agaricaceae'
+url: http://www.gutenberg.org/ebooks/33013
